@@ -8,6 +8,9 @@ Filelist
 displays/
   Using 2x ??? displays
 
+manifest
+  Manifest file for use by resync script
+
 links.pdf
   Malachite related links
 
