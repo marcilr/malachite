@@ -31,4 +31,5 @@
 # --------------------------------------------------------
 # Source                                            Target
 # --------------------------------------------------------
+ssh://git@github.com/marcilr/displays               displays
 ssh://git@github.com/marcilr/fitlet2.git            fitlet2
