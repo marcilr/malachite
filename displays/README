@@ -5,8 +5,15 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+asus/
+  Asus
+
 displays.txt
   Displays
 
 links.txt
   Display related links
+
+manifest
+  Manifest file for use by resync script
+
