@@ -3,4 +3,14 @@ Created Wed Oct  9 07:38:57 AKDT 2019
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Malachite home workstation
+Malachite workstation
+
+
+Thu 08 Nov 2019 11:29:41 AM AKST
+================================
+Rebuild malachite workstation on new Compulab fitlet2.
+Installed from debian-live-10.1.0-amd64-xfce.iso 
+on 64GB Samsung SDCZ33 usb key ripped using rufus 
+under windows 10.
+
+No issues.
