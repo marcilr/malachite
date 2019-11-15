@@ -1,0 +1,59 @@
+packages.txt
+Created Fri 01 Nov 2019 03:09:17 PM AKDT
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Debain 10.1 amd64 packages for malachite workstation
+
+
+aptitude - terminal-based package manager - Fri Nov 1, 2019 (1st install)
+
+bc - GNU bc arbitrary precision calculator language, Thu Nov 14, 2019
+
+blkid - Looks to be installed by default to /sbin/blkid
+
+evince - Document (PostScript, PDF) viewer
+  Fri Nov 8, 2019
+
+feh - imlib2 based image viewer - Fri Nov 1, 2019 (1st install)
+  Mon Nov 4, 2019 (2nd install)
+
+gimp - GNU Image Manipulation Program, Mon Nov 4, 2019
+
+git-all - fast, scalable, distributed revision control system (all subpackages)
+  Fri Nov 1, 2019 (1st install)
+
+libblkid-dev - block device ID library - headers and static libraries
+libblkid1 - block device ID library
+  Looking to instal blkid, Fri Nov 1, 2019 (1st install)
+  no neither had blkid.
+
+locate - maintain and query an index of a directory tree
+  Fri Nov 1, 2019 (1st install)
+
+pdftk - transitional package for pdftk, a tool for manipulating PDF documents
+pdftk-java - pdftk port to java - a tool for manipulating PDF documents
+  Tue 12 Nov 2019 03:57:47 PM AKST, 1st install
+
+  To extract pages 12-15:
+    pdftk full-pdf.pdf cat 12-15 output outfile_p12-15.pdf
+    --How can I extract a page range / a part of a PDF?
+      https://askubuntu.com/questions/221962/how-can-i-extract-a-page-range-a-part-of-a-pdf
+
+
+sshpass - Non-interactive ssh password authentication
+
+texlive-latex-base - TeX Live: LaTeX fundamental packages
+texlive-latex-base-doc - TeX Live: Documentation files for texlive-latex-base
+  LaTeX build dependencies
+  Fri 15 Nov 2019 12:27:19 PM AKST
+
+texlive-latex-extra - TeX Live: LaTeX additional packages
+texlive-latex-extra-doc - TeX Live: Documentation files for texlive-latex-extra
+  For macros such as fullpage.sty and such install (866MB)
+  Fri 15 Nov 2019 12:27:19 PM AKST
+
+xclip - command line interface to X selections, Tue 12 Nov 2019 12:35:57 PM AKST
+  Utility to copy to clipboard:
+    xclip -i ~/.ssh/github_rsa_4096.pub
