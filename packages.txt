@@ -4,7 +4,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 
-Debain 10.1 amd64 packages for malachite workstation
+Debian 10.1 amd64 packages for malachite workstation
 
 
 aptitude - terminal-based package manager - Fri Nov 1, 2019 (1st install)
