@@ -54,6 +54,9 @@ texlive-latex-extra-doc - TeX Live: Documentation files for texlive-latex-extra
   For macros such as fullpage.sty and such install (866MB)
   Fri 15 Nov 2019 12:27:19 PM AKST
 
+wget - retrieves files from the web
+  Fri 15 Nov 2019 12:36:01 PM AKST
+
 xclip - command line interface to X selections, Tue 12 Nov 2019 12:35:57 PM AKST
   Utility to copy to clipboard:
     xclip -i ~/.ssh/github_rsa_4096.pub
