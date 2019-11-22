@@ -31,6 +31,7 @@ libblkid1 - block device ID library
 
 locate - maintain and query an index of a directory tree
   Fri Nov 1, 2019 (1st install)
+  Thu 21 Nov 2019 09:34:59 PM AKST (2nd install)
 
 pdftk - transitional package for pdftk, a tool for manipulating PDF documents
 pdftk-java - pdftk port to java - a tool for manipulating PDF documents
