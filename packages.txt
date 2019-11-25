@@ -7,6 +7,19 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Debian 10.1 amd64 packages for malachite workstation
 
 
+Mon 25 Nov 2019 10:48:18 AM AKST
+================================
+Running Debian 10 Buster:
+
+$ cat /etc/debian_version 
+10.2
+$
+
+--Updated Debian 10: 10.2 released
+  November 16th, 2019
+  https://www.debian.org/News/2019/20191116
+
+
 apg - Automated Password Generator - Standalone version
   - Fri Nov 22, 2019
 
