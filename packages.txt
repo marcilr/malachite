@@ -40,6 +40,11 @@ gimp - GNU Image Manipulation Program, Mon Nov 4, 2019
 git-all - fast, scalable, distributed revision control system (all subpackages)
   Fri Nov 1, 2019 (1st install)
 
+gnome-tweaks - tool to adjust advanced configuration settings for GNOME
+  Customize gnome desktop
+  https://itsfoss.com/gnome-tweak-tool/
+  Wed 04 Dec 2019 10:49:03 PM AKST
+
 libblkid-dev - block device ID library - headers and static libraries
 libblkid1 - block device ID library
   Looking to instal blkid, Fri Nov 1, 2019 (1st install)
