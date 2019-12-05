@@ -41,7 +41,7 @@ git-all - fast, scalable, distributed revision control system (all subpackages)
   Fri Nov 1, 2019 (1st install)
 
 gnome-tweaks - tool to adjust advanced configuration settings for GNOME
-  Customize gnome desktop
+  GNOME tweak tool - customize gnome desktop
   https://itsfoss.com/gnome-tweak-tool/
   Wed 04 Dec 2019 10:49:03 PM AKST
 
