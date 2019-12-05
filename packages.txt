@@ -76,6 +76,7 @@ usermode - Graphical tools for certain user account management tasks
 
 variety - Wallpaper changer, downloader and manager
   Downloads to ~/.config/variety/Downloaded
+  https://peterlevi.com/variety/
   Wed 04 Dec 2019 10:39:58 PM AKST
 
 wget - retrieves files from the web
