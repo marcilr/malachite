@@ -63,6 +63,12 @@ pdftk-java - pdftk port to java - a tool for manipulating PDF documents
     --How can I extract a page range / a part of a PDF?
       https://askubuntu.com/questions/221962/how-can-i-extract-a-page-range-a-part-of-a-pdf
 
+poppler-utils - PDF utilities (based on Poppler)
+  Has pdfimages for extracting images from PDFs
+  How to Extract and Save Images from a PDF File in Linux
+  Lori Kaufman  @howtogeek
+  September 15, 2015, 10:24am EDT 
+  https://www.howtogeek.com/228796/how-to-extract-and-save-images-from-a-pdf-file-in-linux/
 
 sshpass - Non-interactive ssh password authentication
 
