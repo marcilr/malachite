@@ -6,6 +6,45 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Malachite workstation
 
 
+Tue 19 Oct 2021 11:48:05 AM AKDT
+================================
+Migrated non-running malachite workstation, the Compulab fitlet2,
+to the empty room across from Shena's office.  Added stray 16GB ram
+I found with the Compulab parts.
+
+Migrated extra google wifi hotspot from tenant bathroom to
+my new computer room and plugged the fitlet2.  The fitlet2 
+boots and gets ethernet without issue.
+
+Now need to work on latest task list.
+
+Only 16GB of ram on malachite:
+
+malachite:~$ free -g
+              total        used        free      shared  buff/cache   available
+Mem:             15           0          13           0           1          14
+Swap:             0           0           0
+
+Think 100GB ssd drive:
+
+malachite:~$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            7.8G     0  7.8G   0% /dev
+tmpfs           1.6G  9.3M  1.6G   1% /run
+/dev/sda2        92G   60G   27G  69% /
+tmpfs           7.8G   40M  7.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda4        92G   33G   54G  38% /usr/local
+/dev/sda5        92G   70G   17G  81% /usr/local/VirtualBox_VMs
+/dev/sda6       288G   50G  223G  19% /usr/local/VirtualBox_VMs2
+/dev/sda1       511M   86M  426M  17% /boot/efi
+tmpfs           1.6G   24K  1.6G   1% /run/user/1000
+
+Displayed MS Teams on started using Teams icon on top right
+left display.
+
+
 Thu 08 Nov 2019 11:29:41 AM AKST
 ================================
 Rebuild malachite workstation on new Compulab fitlet2.
