@@ -10,6 +10,13 @@ Tue 19 Oct 2021 11:48:05 AM AKDT
 ================================
 o Looks good!
 
+o Consider removing the ms-teams packages:
+
+malachite:~$ dpkg -l | grep teams
+ii  t1-teams   4.17           all     Teams -- a PostScript font covering ASCII and basic Cyrillic
+ii  teams      1.4.00.26453   amd64   Microsoft Teams for Linux is your chat-centered workspace in Of
+
+
 o Updated debian with:
 # aptitude update
 # aptitude upgrade
