@@ -8,17 +8,25 @@ Malachite workstation
 
 Tue 19 Oct 2021 11:48:05 AM AKDT
 ================================
-Migrated non-running malachite workstation, the Compulab fitlet2,
+o Looks good!
+
+o Updated debian with:
+# aptitude update
+# aptitude upgrade
+
+Updated 107 packages.
+
+o Migrated non-running malachite workstation, the Compulab fitlet2,
 to the empty room across from Shena's office.  Added stray 16GB ram
 I found with the Compulab parts.
 
-Migrated extra google wifi hotspot from tenant bathroom to
+o Migrated extra google wifi hotspot from tenant bathroom to
 my new computer room and plugged the fitlet2.  The fitlet2 
 boots and gets ethernet without issue.
 
 Now need to work on latest task list.
 
-Only 16GB of ram on malachite:
+o Only 16GB of ram on malachite:
 
 malachite:~$ free -g
               total        used        free      shared  buff/cache   available
